@@ -1,1 +1,0 @@
-STAR --runMode alignReads --runThreadN 8 --genomeDir $index --sjdbGTFfile $gtf --readFilesIn $file1 $file2 --outFileNamePrefix $pre/$pre --outSAMmultNmax 5 --outFilterMultimapNmax 5 --outFilterMismatchNmax 3  --outSAMtype BAM SortedByCoordinate
