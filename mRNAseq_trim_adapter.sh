@@ -1,4 +1,3 @@
-#ungzip
 gunzip $file1
 gunzip $file2
 touch $pre.inputlist
